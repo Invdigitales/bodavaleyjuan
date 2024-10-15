@@ -72,7 +72,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3291.6104571726864!2d-58.69177942489554!3d-34.41124584735772!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bca1767a9f4b37%3A0xfcb2a42d467e7a0d!2sParroquia%20Nuestra%20Se%C3%B1ora%20del%20Carmen!5e0!3m2!1ses-419!2sar!4v1722640886520!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>',
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.388112496105!2d-58.482512400000005!3d-34.56904490000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb661076c46c3%3A0xfdc208015f99acd4!2sSantuario%20Jes%C3%BAs%20Misericordioso!5e0!3m2!1ses-419!2sar!4v1729024968289!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>',
         
         
     })
@@ -85,7 +85,7 @@ function diaEventoAhora () {
         icon: 'success',
         html:
           'INGRESÁ' +
-          '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3289.577080336622!2d-58.64133612489268!3d-34.46288205007295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bca58f16d59351%3A0x5c22a695fe3d1e1f!2sSmile%20sal%C3%B3n%20de%20fiestas!5e0!3m2!1ses-419!2sar!4v1722641278724!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+          '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.088937446285!2d-58.49538480000001!3d-34.576616099999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb65a476d3a39%3A0xca102a639998c94d!2sCullen%205741%2C%20C1431%20Cdad.%20Aut%C3%B3noma%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1729024999154!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
           'Podes ampliar el mapa',
           
           
