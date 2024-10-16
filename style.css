@@ -346,7 +346,7 @@ margin-top: 15%;
 
 .galeria{
   width: 90%;
-  margin-left: 2%;
+  margin-left: 1%;
   margin-top: 18%;
 }
 .juan{
@@ -401,13 +401,6 @@ margin-top: 15%;
   width: 25%;
   margin-top: -2%;
   margin-left: 38%;
-}
-
-
-.carousel-inner img{
-  width: 80%;
-  border-radius: 5%;
-  margin-top: 10%;
 }
 
 
